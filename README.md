@@ -1,4 +1,4 @@
-# <a href="dominicmajor.github.io">DominicMajor.github.io</a>
+# <a href="http://dominicmajor.github.io/">DominicMajor.github.io</a>
 
 This is the repository for my personal site.
 
